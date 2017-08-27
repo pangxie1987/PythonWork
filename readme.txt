@@ -1,4 +1,5 @@
-git branch is quick & simple
+git for branch is quick & simple
+>>>>>>> feature1
 is on brnach dev2
 
 
