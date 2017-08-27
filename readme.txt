@@ -1,3 +1,5 @@
+git merge for --no-ff
+
 my dev3 write for second
 
 is for dev3
