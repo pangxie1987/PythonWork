@@ -1,3 +1,7 @@
+repare the bug issue-001
+
+i am working on dev3
+
 git merge for --no-ff
 
 my dev3 write for second
