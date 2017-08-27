@@ -1,3 +1,4 @@
+git for branch is quick & simple
 is on brnach dev2
 
 
